@@ -1,0 +1,18 @@
+D:\NTS Browser\NTS browser\obj\Debug\NTS browser.vbprojAssemblyReference.cache
+D:\NTS Browser\NTS browser\obj\Debug\NTS_browser.Form1.resources
+D:\NTS Browser\NTS browser\obj\Debug\NTS_browser.Resources.resources
+D:\NTS Browser\NTS browser\obj\Debug\NTS browser.vbproj.GenerateResource.cache
+D:\NTS Browser\NTS browser\obj\Debug\NTS browser.vbproj.CoreCompileInputs.cache
+D:\NTS Browser\NTS browser\bin\Debug\NTS browser.exe.config
+D:\NTS Browser\NTS browser\bin\Debug\NTS browser.exe
+D:\NTS Browser\NTS browser\bin\Debug\NTS browser.pdb
+D:\NTS Browser\NTS browser\bin\Debug\NTS browser.xml
+D:\NTS Browser\NTS browser\obj\Debug\NTS browser.exe
+D:\NTS Browser\NTS browser\obj\Debug\NTS browser.xml
+D:\NTS Browser\NTS browser\obj\Debug\NTS browser.pdb
+D:\NTS Browser\NTS browser\bin\Debug\NTS browser.exe.manifest
+D:\NTS Browser\NTS browser\bin\Debug\NTS browser.application
+D:\NTS Browser\NTS browser\obj\Debug\NTS browser.exe.manifest
+D:\NTS Browser\NTS browser\obj\Debug\NTS browser.application
+D:\NTS Browser\NTS browser\obj\Debug\NTS_browser.Ustawienia.resources
+D:\NTS Browser\NTS browser\obj\Debug\NTS_browser.Form3.resources
